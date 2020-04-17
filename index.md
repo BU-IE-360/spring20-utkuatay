@@ -2,4 +2,4 @@
 
 ## Week 0
 
-[Here](files/Interesting_examples.html)
+[Here](Files/Interesting_examples.html)
