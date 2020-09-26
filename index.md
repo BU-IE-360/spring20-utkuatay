@@ -9,9 +9,13 @@
 ## Machine Learning
 
 ### Tree Functions
+[Here](Files/IE-425-HW1.html)
 
 ### K-NN Classification
+[Here](Files/IE-425-HW2.html)
 
 ### Linear Regression(GLM) + Clustering
+[Here](Files/IE-425-Hw3.html)
 
 ### Project - Kobe Shot Selection
+[Here](Files/Kobe-Byrant-Shot-Selection.html)
