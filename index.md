@@ -9,13 +9,13 @@
 ## Quality Management
 
 ### Image Processing - Project 1
-[Here](Files/IE 423 - Project 1.html)
+[Here](Files/IE-423-Project1.html)
 
 ### Image Processing - Project 2
-[Here](Files/IE 423 - Project 2.html)
+[Here](Files/IE-423-Project2.html)
 
 ### Image Processing - Project 3
-[Here](Files/IE 423 - Project 3.html)
+[Here](Files/IE-423-Project3.html)
 
 ## Machine Learning
 
