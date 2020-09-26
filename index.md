@@ -8,7 +8,7 @@
 
 ## Quality Management
 
-### Image Processing - Project 1)
+### Image Processing - Project 1
 [Here](Files/IE 423 - Project 1.html)
 
 ### Image Processing - Project 2
